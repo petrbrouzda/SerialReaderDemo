@@ -1,2 +1,3 @@
 # SerialReaderDemo
-ukázka čtení sériového portu callbackem, asynchronně, bez zdržování hlavního vlákna
+Arduino, ESP32.
+Ukázka čtení sériového portu callbackem, asynchronně, bez zdržování hlavního vlákna.
