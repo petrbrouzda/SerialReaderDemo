@@ -26,8 +26,6 @@ void serial_callback()
 
 void setup() {
     Serial.begin(115200);
-
-    // sr = new SerialReader();
      
     delay(1000);
     Serial.println( "Start." );
